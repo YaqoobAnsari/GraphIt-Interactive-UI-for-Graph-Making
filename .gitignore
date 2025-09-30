@@ -9,5 +9,4 @@ venv/
 .idea/
 .vscode/
 .DS_Store
-*.log
-Results/Images/*.png
+*.log 
