@@ -1,4 +1,4 @@
-# Graph Editor - Interactive Network Overlay Tool
+# GraphIt - Interactive Graph Overlay Tool
 
 A professional PyQt6-based graph editor for visualizing and editing network graphs overlaid on floor plans. Built for precision editing of spatial graphs with support for multiple node types, continuous edge creation, and high-resolution export.
 
