@@ -1,0 +1,7792 @@
+{
+  "nodes": [
+    {
+      "id": "room_30",
+      "type": "room",
+      "position": [
+        680.5,
+        1299.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 18557,
+      "room_eq_radius": 76.85620702267713,
+      "room_inradius": 42.02001953125,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        680.7139084981409,
+        1317.5934148838712
+      ],
+      "anchor_door": "r2c_door_29"
+    },
+    {
+      "id": "r2c_door_29",
+      "type": "door",
+      "position": [
+        666.0,
+        1407.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_908",
+      "type": "corridor",
+      "position": [
+        1100.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_266",
+      "type": "corridor",
+      "position": [
+        1800.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_987",
+      "type": "corridor",
+      "position": [
+        860.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_543",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_34_subnode_1",
+      "type": "room",
+      "position": [
+        473.0,
+        1370.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_34"
+    },
+    {
+      "id": "room_23",
+      "type": "room",
+      "position": [
+        1270.5,
+        1077.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 48621,
+      "room_eq_radius": 124.4047626746745,
+      "room_inradius": 69.46226501464844,
+      "room_num_subnode_candidates": 11,
+      "room_centroid_xy": [
+        1271.2226404228625,
+        1108.3569239628966
+      ]
+    },
+    {
+      "id": "corridor_connect_803",
+      "type": "corridor",
+      "position": [
+        1680.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_547",
+      "type": "corridor",
+      "position": [
+        420.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_30_subnode_2",
+      "type": "room",
+      "position": [
+        681.0,
+        1370.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_30"
+    },
+    {
+      "id": "room_4",
+      "type": "room",
+      "position": [
+        531.5,
+        405.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16913,
+      "room_eq_radius": 73.37284991757136,
+      "room_inradius": 33.42500305175781,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.5495772482706,
+        420.31011647844855
+      ],
+      "anchor_door": "r2c_door_2"
+    },
+    {
+      "id": "corridor_connect_711",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_1",
+      "type": "door",
+      "position": [
+        509.0,
+        217.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_316",
+      "type": "corridor",
+      "position": [
+        360.0,
+        860.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_479",
+      "type": "corridor",
+      "position": [
+        300.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_1224",
+      "type": "corridor",
+      "position": [
+        580.0,
+        1520.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_554",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_12",
+      "type": "room",
+      "position": [
+        531.5,
+        712.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17196,
+      "room_eq_radius": 73.98416589255072,
+      "room_inradius": 34.23250961303711,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.6498022796,
+        729.7813444987206
+      ],
+      "anchor_door": "r2c_door_8"
+    },
+    {
+      "id": "room_6",
+      "type": "room",
+      "position": [
+        1741.75,
+        429.25
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 108387,
+      "room_eq_radius": 185.7435157247825,
+      "room_inradius": 98.36499786376953,
+      "room_num_subnode_candidates": 32,
+      "room_centroid_xy": [
+        1741.9661306245214,
+        453.07918846356114
+      ],
+      "anchor_door": "r2c_door_12"
+    },
+    {
+      "id": "corridor_connect_215",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_570",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1200.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_798",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_337",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        900.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_16",
+      "type": "door",
+      "position": [
+        435.0,
+        954.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_800",
+      "type": "corridor",
+      "position": [
+        1620.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_3_subnode_7",
+      "type": "room",
+      "position": [
+        1366.0,
+        421.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_3"
+    },
+    {
+      "id": "room_26_subnode_1",
+      "type": "room",
+      "position": [
+        1574.0,
+        1168.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_26"
+    },
+    {
+      "id": "corridor_connect_918",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_481",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_285",
+      "type": "corridor",
+      "position": [
+        380.0,
+        780.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_4",
+      "type": "door",
+      "position": [
+        434.0,
+        646.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_10",
+      "type": "door",
+      "position": [
+        1309.0,
+        568.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_599",
+      "type": "corridor",
+      "position": [
+        1120.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_188",
+      "type": "corridor",
+      "position": [
+        380.0,
+        680.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_16_subnode_7",
+      "type": "room",
+      "position": [
+        1123.0,
+        758.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_16"
+    },
+    {
+      "id": "corridor_connect_757",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1360.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_984",
+      "type": "corridor",
+      "position": [
+        800.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_698",
+      "type": "corridor",
+      "position": [
+        420.0,
+        1340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_618",
+      "type": "corridor",
+      "position": [
+        1220.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_558",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1180.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_617",
+      "type": "corridor",
+      "position": [
+        1200.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_1_subnode_21",
+      "type": "room",
+      "position": [
+        505.0,
+        168.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_1"
+    },
+    {
+      "id": "corridor_connect_686",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1320.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_100",
+      "type": "corridor",
+      "position": [
+        380.0,
+        520.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_433",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        980.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_899",
+      "type": "corridor",
+      "position": [
+        920.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_73",
+      "type": "corridor",
+      "position": [
+        260.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_870",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_877",
+      "type": "corridor",
+      "position": [
+        480.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_828",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_264",
+      "type": "corridor",
+      "position": [
+        1700.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_14_subnode_2",
+      "type": "room",
+      "position": [
+        269.0,
+        833.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_14"
+    },
+    {
+      "id": "corridor_connect_672",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1320.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_16_subnode_10",
+      "type": "room",
+      "position": [
+        1093.0,
+        810.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_16"
+    },
+    {
+      "id": "corridor_connect_980",
+      "type": "corridor",
+      "position": [
+        720.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_32",
+      "type": "door",
+      "position": [
+        1090.0,
+        1243.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_868",
+      "type": "corridor",
+      "position": [
+        300.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_16_subnode_17",
+      "type": "room",
+      "position": [
+        1123.0,
+        862.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_16"
+    },
+    {
+      "id": "corridor_connect_453",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1020.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_16_subnode_4",
+      "type": "room",
+      "position": [
+        1153.0,
+        706.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_16"
+    },
+    {
+      "id": "corridor_connect_942",
+      "type": "corridor",
+      "position": [
+        1780.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_19",
+      "type": "room",
+      "position": [
+        1629.5,
+        949.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17790,
+      "room_eq_radius": 75.25113205267836,
+      "room_inradius": 36.612998962402344,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        1634.0216975829117,
+        960.7792017987633
+      ],
+      "anchor_door": "r2c_door_19"
+    },
+    {
+      "id": "corridor_connect_717",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_611",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_851",
+      "type": "corridor",
+      "position": [
+        1780.0,
+        1420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_807",
+      "type": "corridor",
+      "position": [
+        1760.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_1321",
+      "type": "corridor",
+      "position": [
+        560.0,
+        1560.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_152",
+      "type": "corridor",
+      "position": [
+        1520.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_15",
+      "type": "room",
+      "position": [
+        533.0,
+        813.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17089,
+      "room_eq_radius": 73.75362801242254,
+      "room_inradius": 34.23250961303711,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.4791386271871,
+        832.982093744514
+      ],
+      "anchor_door": "r2c_door_15"
+    },
+    {
+      "id": "corridor_connect_315",
+      "type": "corridor",
+      "position": [
+        340.0,
+        860.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_228",
+      "type": "corridor",
+      "position": [
+        1560.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_624",
+      "type": "corridor",
+      "position": [
+        1340.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_13",
+      "type": "room",
+      "position": [
+        1616.0,
+        808.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 20088,
+      "room_eq_radius": 79.96379801922859,
+      "room_inradius": 41.13520431518555,
+      "room_num_subnode_candidates": 3,
+      "room_centroid_xy": [
+        1616.9183094384707,
+        840.6037435284748
+      ],
+      "anchor_door": "r2c_door_18"
+    },
+    {
+      "id": "corridor_connect_913",
+      "type": "corridor",
+      "position": [
+        1200.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_177",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        660.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_92",
+      "type": "corridor",
+      "position": [
+        380.0,
+        480.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_190",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        680.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_27",
+      "type": "door",
+      "position": [
+        431.0,
+        1293.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_142",
+      "type": "corridor",
+      "position": [
+        1320.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_15_subnode_1",
+      "type": "room",
+      "position": [
+        465.0,
+        833.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_15"
+    },
+    {
+      "id": "room_2",
+      "type": "room",
+      "position": [
+        530.0,
+        291.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 18605,
+      "room_eq_radius": 76.95554192161488,
+      "room_inradius": 35.33500671386719,
+      "room_num_subnode_candidates": 1,
+      "room_centroid_xy": [
+        525.7522171459285,
+        312.9703305563021
+      ],
+      "anchor_door": "r2c_door_3"
+    },
+    {
+      "id": "corridor_connect_591",
+      "type": "corridor",
+      "position": [
+        1460.0,
+        1220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_6_subnode_20",
+      "type": "room",
+      "position": [
+        1682.0,
+        505.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_6"
+    },
+    {
+      "id": "corridor_connect_313",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        840.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_7",
+      "type": "room",
+      "position": [
+        206.5,
+        505.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17938,
+      "room_eq_radius": 75.56350136385183,
+      "room_inradius": 33.90950393676758,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        208.48957520347864,
+        519.854164343851
+      ],
+      "anchor_door": "r2c_door_7"
+    },
+    {
+      "id": "c2c_door_4",
+      "type": "door",
+      "position": [
+        1594.0,
+        733.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_213",
+      "type": "corridor",
+      "position": [
+        380.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_305",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        820.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_751",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1360.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_119",
+      "type": "corridor",
+      "position": [
+        380.0,
+        600.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_3_subnode_15",
+      "type": "room",
+      "position": [
+        1306.0,
+        525.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_3"
+    },
+    {
+      "id": "r2c_door_22",
+      "type": "door",
+      "position": [
+        434.0,
+        1057.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_154",
+      "type": "corridor",
+      "position": [
+        1560.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_482",
+      "type": "corridor",
+      "position": [
+        360.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_140",
+      "type": "corridor",
+      "position": [
+        1280.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_9",
+      "type": "door",
+      "position": [
+        1182.0,
+        735.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_5",
+      "type": "door",
+      "position": [
+        434.0,
+        541.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_3",
+      "type": "door",
+      "position": [
+        435.0,
+        335.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_277",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        760.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_20",
+      "type": "room",
+      "position": [
+        533.0,
+        1024.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17061,
+      "room_eq_radius": 73.6931812868847,
+      "room_inradius": 34.23250961303711,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.4131059140731,
+        1038.7725807396987
+      ],
+      "anchor_door": "r2c_door_22"
+    },
+    {
+      "id": "room_5_subnode_20",
+      "type": "room",
+      "position": [
+        1160.0,
+        525.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_5"
+    },
+    {
+      "id": "corridor_connect_897",
+      "type": "corridor",
+      "position": [
+        880.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_869",
+      "type": "corridor",
+      "position": [
+        320.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_138",
+      "type": "corridor",
+      "position": [
+        380.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_30",
+      "type": "door",
+      "position": [
+        769.0,
+        1408.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_449",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1000.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_484",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_26",
+      "type": "room",
+      "position": [
+        1632.5,
+        1150.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17544,
+      "room_eq_radius": 74.72903480715125,
+      "room_inradius": 34.6117057800293,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        1633.7521089831282,
+        1167.5734154126767
+      ],
+      "anchor_door": "r2c_door_25"
+    },
+    {
+      "id": "corridor_connect_10",
+      "type": "corridor",
+      "position": [
+        400.0,
+        220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_938",
+      "type": "corridor",
+      "position": [
+        1700.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_85",
+      "type": "corridor",
+      "position": [
+        420.0,
+        440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_143",
+      "type": "corridor",
+      "position": [
+        1340.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_621",
+      "type": "corridor",
+      "position": [
+        1280.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_24_subnode_1",
+      "type": "room",
+      "position": [
+        496.0,
+        1149.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_24"
+    },
+    {
+      "id": "corridor_connect_155",
+      "type": "corridor",
+      "position": [
+        340.0,
+        640.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_911",
+      "type": "corridor",
+      "position": [
+        1160.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_8_subnode_1",
+      "type": "room",
+      "position": [
+        466.0,
+        523.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_8"
+    },
+    {
+      "id": "room_3",
+      "type": "room",
+      "position": [
+        1424.0,
+        387.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 85437,
+      "room_eq_radius": 164.91040520805387,
+      "room_inradius": 86.90510559082031,
+      "room_num_subnode_candidates": 18,
+      "room_centroid_xy": [
+        1425.6225756990532,
+        421.0065077191381
+      ],
+      "anchor_door": "r2c_door_10"
+    },
+    {
+      "id": "corridor_connect_437",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1000.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_175",
+      "type": "corridor",
+      "position": [
+        380.0,
+        660.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_102",
+      "type": "corridor",
+      "position": [
+        320.0,
+        540.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_224",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_7_subnode_2",
+      "type": "room",
+      "position": [
+        268.0,
+        520.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_7"
+    },
+    {
+      "id": "corridor_connect_273",
+      "type": "corridor",
+      "position": [
+        380.0,
+        760.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_644",
+      "type": "corridor",
+      "position": [
+        1420.0,
+        1280.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_6_subnode_16",
+      "type": "room",
+      "position": [
+        1712.0,
+        453.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_6"
+    },
+    {
+      "id": "corridor_connect_937",
+      "type": "corridor",
+      "position": [
+        1680.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_546",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_467",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1040.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_56",
+      "type": "corridor",
+      "position": [
+        120.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_33",
+      "type": "door",
+      "position": [
+        1541.0,
+        1250.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_528",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1120.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_903",
+      "type": "corridor",
+      "position": [
+        1000.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_866",
+      "type": "corridor",
+      "position": [
+        260.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_909",
+      "type": "corridor",
+      "position": [
+        1120.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_508",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1100.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_983",
+      "type": "corridor",
+      "position": [
+        780.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_843",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_15",
+      "type": "door",
+      "position": [
+        434.0,
+        850.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_891",
+      "type": "corridor",
+      "position": [
+        760.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_392",
+      "type": "corridor",
+      "position": [
+        320.0,
+        960.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_988",
+      "type": "corridor",
+      "position": [
+        880.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_244",
+      "type": "corridor",
+      "position": [
+        400.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_876",
+      "type": "corridor",
+      "position": [
+        460.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_884",
+      "type": "corridor",
+      "position": [
+        620.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_601",
+      "type": "corridor",
+      "position": [
+        1160.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_144",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_153",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_88",
+      "type": "corridor",
+      "position": [
+        380.0,
+        460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_32_subnode_2",
+      "type": "room",
+      "position": [
+        892.0,
+        1370.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_32"
+    },
+    {
+      "id": "corridor_connect_390",
+      "type": "corridor",
+      "position": [
+        1500.0,
+        940.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_321",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        860.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_5_subnode_29",
+      "type": "room",
+      "position": [
+        1220.0,
+        629.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_5"
+    },
+    {
+      "id": "corridor_connect_68",
+      "type": "corridor",
+      "position": [
+        160.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_391",
+      "type": "corridor",
+      "position": [
+        1520.0,
+        940.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_21",
+      "type": "door",
+      "position": [
+        300.0,
+        1161.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_985",
+      "type": "corridor",
+      "position": [
+        820.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_261",
+      "type": "corridor",
+      "position": [
+        1640.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_978",
+      "type": "corridor",
+      "position": [
+        680.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_6_subnode_28",
+      "type": "room",
+      "position": [
+        1622.0,
+        609.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_6"
+    },
+    {
+      "id": "corridor_connect_19",
+      "type": "corridor",
+      "position": [
+        380.0,
+        260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_31",
+      "type": "door",
+      "position": [
+        872.0,
+        1407.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_934",
+      "type": "corridor",
+      "position": [
+        1620.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_70",
+      "type": "corridor",
+      "position": [
+        200.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_71",
+      "type": "corridor",
+      "position": [
+        220.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_541",
+      "type": "corridor",
+      "position": [
+        1500.0,
+        1140.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_297",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        800.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_33",
+      "type": "room",
+      "position": [
+        1038.0,
+        1299.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 18832,
+      "room_eq_radius": 77.42358669432168,
+      "room_inradius": 43.930023193359375,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        1039.2255734919286,
+        1318.7572748513169
+      ],
+      "anchor_door": "r2c_door_32"
+    },
+    {
+      "id": "corridor_connect_914",
+      "type": "corridor",
+      "position": [
+        1220.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_542",
+      "type": "corridor",
+      "position": [
+        320.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_697",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "c2c_door_3",
+      "type": "door",
+      "position": [
+        1257.0,
+        733.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_665",
+      "type": "corridor",
+      "position": [
+        1420.0,
+        1300.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_902",
+      "type": "corridor",
+      "position": [
+        980.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_921",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_842",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_265",
+      "type": "corridor",
+      "position": [
+        1720.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_882",
+      "type": "corridor",
+      "position": [
+        580.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_8",
+      "type": "door",
+      "position": [
+        434.0,
+        748.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_802",
+      "type": "corridor",
+      "position": [
+        1660.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_651",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1300.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_43",
+      "type": "corridor",
+      "position": [
+        420.0,
+        340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_804",
+      "type": "corridor",
+      "position": [
+        1700.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_395",
+      "type": "corridor",
+      "position": [
+        380.0,
+        960.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_516",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1100.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_308",
+      "type": "corridor",
+      "position": [
+        360.0,
+        840.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_104",
+      "type": "corridor",
+      "position": [
+        360.0,
+        540.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_103",
+      "type": "corridor",
+      "position": [
+        340.0,
+        540.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_6",
+      "type": "corridor",
+      "position": [
+        480.0,
+        200.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_83",
+      "type": "corridor",
+      "position": [
+        380.0,
+        440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_483",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_225",
+      "type": "corridor",
+      "position": [
+        1500.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_66",
+      "type": "corridor",
+      "position": [
+        120.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_29",
+      "type": "room",
+      "position": [
+        205.0,
+        1299.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 28916,
+      "room_eq_radius": 95.9387756274307,
+      "room_inradius": 51.857933044433594,
+      "room_num_subnode_candidates": 8,
+      "room_centroid_xy": [
+        217.01172361322452,
+        1324.0026628855996
+      ],
+      "anchor_door": "r2c_door_26"
+    },
+    {
+      "id": "room_16",
+      "type": "room",
+      "position": [
+        1173.5,
+        828.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 72613,
+      "room_eq_radius": 152.03103553374748,
+      "room_inradius": 94.54512023925781,
+      "room_num_subnode_candidates": 21,
+      "room_centroid_xy": [
+        1152.9388952391446,
+        810.2779116687094
+      ],
+      "anchor_door": "r2c_door_9"
+    },
+    {
+      "id": "corridor_connect_778",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_981",
+      "type": "corridor",
+      "position": [
+        740.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_849",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_34",
+      "type": "corridor",
+      "position": [
+        380.0,
+        320.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_504",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1080.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_885",
+      "type": "corridor",
+      "position": [
+        640.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_1_subnode_19",
+      "type": "room",
+      "position": [
+        385.0,
+        168.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_1"
+    },
+    {
+      "id": "corridor_connect_124",
+      "type": "corridor",
+      "position": [
+        1340.0,
+        600.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_477",
+      "type": "corridor",
+      "position": [
+        1520.0,
+        1040.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_901",
+      "type": "corridor",
+      "position": [
+        960.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_592",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_9",
+      "type": "room",
+      "position": [
+        206.5,
+        610.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16648,
+      "room_eq_radius": 72.79576213755679,
+      "room_inradius": 33.368804931640625,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        208.51183325324362,
+        626.461737145603
+      ],
+      "anchor_door": "r2c_door_6"
+    },
+    {
+      "id": "room_19_subnode_1",
+      "type": "room",
+      "position": [
+        1574.0,
+        961.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_19"
+    },
+    {
+      "id": "room_27_subnode_1",
+      "type": "room",
+      "position": [
+        1574.0,
+        1271.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_27"
+    },
+    {
+      "id": "corridor_connect_141",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_806",
+      "type": "corridor",
+      "position": [
+        1740.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_817",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_808",
+      "type": "corridor",
+      "position": [
+        1780.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "exit_door_2",
+      "type": "door",
+      "position": [
+        1913.0,
+        738.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_61",
+      "type": "corridor",
+      "position": [
+        320.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_463",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1020.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_933",
+      "type": "corridor",
+      "position": [
+        1600.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_886",
+      "type": "corridor",
+      "position": [
+        660.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_245",
+      "type": "corridor",
+      "position": [
+        1280.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_29_subnode_7",
+      "type": "room",
+      "position": [
+        217.0,
+        1376.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_29"
+    },
+    {
+      "id": "corridor_connect_105",
+      "type": "corridor",
+      "position": [
+        380.0,
+        540.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_939",
+      "type": "corridor",
+      "position": [
+        1720.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_956",
+      "type": "corridor",
+      "position": [
+        240.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_13",
+      "type": "corridor",
+      "position": [
+        380.0,
+        240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_415",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        960.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_13",
+      "type": "door",
+      "position": [
+        300.0,
+        852.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_5",
+      "type": "corridor",
+      "position": [
+        460.0,
+        200.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_532",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1140.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_6_subnode_24",
+      "type": "room",
+      "position": [
+        1652.0,
+        557.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_6"
+    },
+    {
+      "id": "corridor_connect_520",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1120.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_8",
+      "type": "room",
+      "position": [
+        534.5,
+        507.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16946,
+      "room_eq_radius": 73.44439618698296,
+      "room_inradius": 33.81821060180664,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.612179865455,
+        523.301192021716
+      ],
+      "anchor_door": "r2c_door_5"
+    },
+    {
+      "id": "corridor_connect_973",
+      "type": "corridor",
+      "position": [
+        580.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_2_subnode_1",
+      "type": "room",
+      "position": [
+        496.0,
+        313.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_2"
+    },
+    {
+      "id": "room_23_subnode_11",
+      "type": "room",
+      "position": [
+        1271.0,
+        1212.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_23"
+    },
+    {
+      "id": "c2c_door_5",
+      "type": "door",
+      "position": [
+        568.0,
+        1534.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_1064",
+      "type": "corridor",
+      "position": [
+        580.0,
+        1480.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_116",
+      "type": "corridor",
+      "position": [
+        1320.0,
+        580.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_1_subnode_20",
+      "type": "room",
+      "position": [
+        445.0,
+        168.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_1"
+    },
+    {
+      "id": "corridor_connect_366",
+      "type": "corridor",
+      "position": [
+        360.0,
+        940.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_148",
+      "type": "corridor",
+      "position": [
+        1440.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_578",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1200.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_106",
+      "type": "corridor",
+      "position": [
+        400.0,
+        540.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "c2c_door_1",
+      "type": "door",
+      "position": [
+        432.0,
+        219.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_5_subnode_15",
+      "type": "room",
+      "position": [
+        1130.0,
+        473.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_5"
+    },
+    {
+      "id": "corridor_connect_226",
+      "type": "corridor",
+      "position": [
+        1520.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_263",
+      "type": "corridor",
+      "position": [
+        1680.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_607",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_13_subnode_2",
+      "type": "room",
+      "position": [
+        1587.0,
+        841.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_13"
+    },
+    {
+      "id": "corridor_connect_41",
+      "type": "corridor",
+      "position": [
+        380.0,
+        340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_26",
+      "type": "door",
+      "position": [
+        246.0,
+        1411.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_2",
+      "type": "door",
+      "position": [
+        435.0,
+        439.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_10",
+      "type": "room",
+      "position": [
+        533.0,
+        612.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17127,
+      "room_eq_radius": 73.83558370237066,
+      "room_inradius": 34.23250961303711,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.4932562620423,
+        626.7704793600748
+      ],
+      "anchor_door": "r2c_door_4"
+    },
+    {
+      "id": "corridor_connect_603",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_628",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_21",
+      "type": "room",
+      "position": [
+        206.5,
+        1024.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16863,
+      "room_eq_radius": 73.2643133504796,
+      "room_inradius": 33.368804931640625,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        208.65498428512126,
+        1038.9334044950483
+      ],
+      "anchor_door": "r2c_door_23"
+    },
+    {
+      "id": "corridor_connect_602",
+      "type": "corridor",
+      "position": [
+        1180.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_156",
+      "type": "corridor",
+      "position": [
+        360.0,
+        640.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_910",
+      "type": "corridor",
+      "position": [
+        1140.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_10_subnode_1",
+      "type": "room",
+      "position": [
+        465.0,
+        627.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_10"
+    },
+    {
+      "id": "corridor_connect_912",
+      "type": "corridor",
+      "position": [
+        1180.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_1",
+      "type": "room",
+      "position": [
+        379.5,
+        107.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 81114,
+      "room_eq_radius": 160.68412525172485,
+      "room_inradius": 74.30744934082031,
+      "room_num_subnode_candidates": 24,
+      "room_centroid_xy": [
+        385.3166777621619,
+        116.15576842468624
+      ],
+      "anchor_door": "r2c_door_1"
+    },
+    {
+      "id": "room_27",
+      "type": "room",
+      "position": [
+        1634.0,
+        1252.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17373,
+      "room_eq_radius": 74.36395398760743,
+      "room_inradius": 34.3800048828125,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        1633.5662810107638,
+        1270.7841478155758
+      ],
+      "anchor_door": "r2c_door_33"
+    },
+    {
+      "id": "corridor_connect_696",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_830",
+      "type": "corridor",
+      "position": [
+        1780.0,
+        1400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_915",
+      "type": "corridor",
+      "position": [
+        1240.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_875",
+      "type": "corridor",
+      "position": [
+        440.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_23_subnode_5",
+      "type": "room",
+      "position": [
+        1271.0,
+        1108.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_23"
+    },
+    {
+      "id": "corridor_connect_880",
+      "type": "corridor",
+      "position": [
+        540.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_485",
+      "type": "corridor",
+      "position": [
+        420.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_main_4",
+      "type": "corridor",
+      "position": [
+        1220.0,
+        735.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_18_subnode_1",
+      "type": "room",
+      "position": [
+        466.0,
+        936.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_18"
+    },
+    {
+      "id": "corridor_connect_898",
+      "type": "corridor",
+      "position": [
+        900.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_492",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_919",
+      "type": "corridor",
+      "position": [
+        1320.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_874",
+      "type": "corridor",
+      "position": [
+        420.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_622",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_867",
+      "type": "corridor",
+      "position": [
+        280.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_904",
+      "type": "corridor",
+      "position": [
+        1020.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_14",
+      "type": "door",
+      "position": [
+        299.0,
+        748.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_145",
+      "type": "corridor",
+      "position": [
+        1380.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_545",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_329",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        880.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_20",
+      "type": "door",
+      "position": [
+        434.0,
+        1161.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_620",
+      "type": "corridor",
+      "position": [
+        1260.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_695",
+      "type": "corridor",
+      "position": [
+        360.0,
+        1340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_59",
+      "type": "corridor",
+      "position": [
+        240.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_184",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        660.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_197",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        680.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_17",
+      "type": "room",
+      "position": [
+        206.5,
+        919.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16800,
+      "room_eq_radius": 73.12732791431452,
+      "room_inradius": 33.42499923706055,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        208.54934523809524,
+        936.0869047619047
+      ],
+      "anchor_door": "r2c_door_17"
+    },
+    {
+      "id": "corridor_connect_907",
+      "type": "corridor",
+      "position": [
+        1080.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_28",
+      "type": "door",
+      "position": [
+        433.0,
+        1336.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_293",
+      "type": "corridor",
+      "position": [
+        380.0,
+        800.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_149",
+      "type": "corridor",
+      "position": [
+        1460.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_159",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        640.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_940",
+      "type": "corridor",
+      "position": [
+        1740.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_587",
+      "type": "corridor",
+      "position": [
+        1380.0,
+        1220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_171",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        640.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_1_subnode_23",
+      "type": "room",
+      "position": [
+        535.0,
+        220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_1"
+    },
+    {
+      "id": "corridor_connect_270",
+      "type": "corridor",
+      "position": [
+        1880.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_588",
+      "type": "corridor",
+      "position": [
+        1400.0,
+        1220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_928",
+      "type": "corridor",
+      "position": [
+        1500.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_32",
+      "type": "room",
+      "position": [
+        890.5,
+        1299.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17072,
+      "room_eq_radius": 73.71693412595015,
+      "room_inradius": 42.28681182861328,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        891.8410848172446,
+        1317.6084231490158
+      ],
+      "anchor_door": "r2c_door_31"
+    },
+    {
+      "id": "corridor_connect_242",
+      "type": "corridor",
+      "position": [
+        360.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_324",
+      "type": "corridor",
+      "position": [
+        360.0,
+        880.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_158",
+      "type": "corridor",
+      "position": [
+        400.0,
+        640.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_22",
+      "type": "room",
+      "position": [
+        1631.0,
+        1050.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17524,
+      "room_eq_radius": 74.68642745161097,
+      "room_inradius": 34.32380294799805,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        1633.8051244008218,
+        1064.418968272084
+      ],
+      "anchor_door": "r2c_door_24"
+    },
+    {
+      "id": "corridor_connect_645",
+      "type": "corridor",
+      "position": [
+        1440.0,
+        1280.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_496",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1080.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_11",
+      "type": "room",
+      "position": [
+        206.5,
+        712.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16833,
+      "room_eq_radius": 73.19911416220656,
+      "room_inradius": 33.42499923706055,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        208.631260024951,
+        730.0819818214222
+      ],
+      "anchor_door": "r2c_door_14"
+    },
+    {
+      "id": "r2c_door_18",
+      "type": "door",
+      "position": [
+        1545.0,
+        782.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_9_subnode_2",
+      "type": "room",
+      "position": [
+        269.0,
+        626.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_9"
+    },
+    {
+      "id": "r2c_door_24",
+      "type": "door",
+      "position": [
+        1540.0,
+        1043.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_27",
+      "type": "corridor",
+      "position": [
+        380.0,
+        300.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_687",
+      "type": "corridor",
+      "position": [
+        1380.0,
+        1320.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_69",
+      "type": "corridor",
+      "position": [
+        180.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_14",
+      "type": "room",
+      "position": [
+        206.5,
+        813.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16886,
+      "room_eq_radius": 73.31426012788705,
+      "room_inradius": 33.42500305175781,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        208.74819376998698,
+        833.2209522681511
+      ],
+      "anchor_door": "r2c_door_13"
+    },
+    {
+      "id": "corridor_connect_54",
+      "type": "corridor",
+      "position": [
+        380.0,
+        380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_879",
+      "type": "corridor",
+      "position": [
+        520.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_5_subnode_24",
+      "type": "room",
+      "position": [
+        1190.0,
+        577.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_5"
+    },
+    {
+      "id": "corridor_connect_62",
+      "type": "corridor",
+      "position": [
+        340.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_792",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_5",
+      "type": "room",
+      "position": [
+        1106.5,
+        426.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 117302,
+      "room_eq_radius": 193.23143188707942,
+      "room_inradius": 115.55516052246094,
+      "room_num_subnode_candidates": 29,
+      "room_centroid_xy": [
+        1100.262544543145,
+        473.0876881894597
+      ],
+      "anchor_door": "r2c_door_11"
+    },
+    {
+      "id": "room_4_subnode_1",
+      "type": "room",
+      "position": [
+        466.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_4"
+    },
+    {
+      "id": "corridor_connect_801",
+      "type": "corridor",
+      "position": [
+        1640.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_246",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_146",
+      "type": "corridor",
+      "position": [
+        1400.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_627",
+      "type": "corridor",
+      "position": [
+        1460.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_396",
+      "type": "corridor",
+      "position": [
+        400.0,
+        960.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_932",
+      "type": "corridor",
+      "position": [
+        1580.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_475",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1040.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_623",
+      "type": "corridor",
+      "position": [
+        1320.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_34",
+      "type": "room",
+      "position": [
+        543.5,
+        1361.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16312,
+      "room_eq_radius": 72.05741366042771,
+      "room_inradius": 32.470001220703125,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        533.4729646885728,
+        1370.0008582638548
+      ],
+      "anchor_door": "r2c_door_28"
+    },
+    {
+      "id": "corridor_connect_668",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1300.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_977",
+      "type": "corridor",
+      "position": [
+        660.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_917",
+      "type": "corridor",
+      "position": [
+        1280.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_906",
+      "type": "corridor",
+      "position": [
+        1060.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_227",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_332",
+      "type": "corridor",
+      "position": [
+        360.0,
+        900.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_986",
+      "type": "corridor",
+      "position": [
+        840.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_822",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_17_subnode_2",
+      "type": "room",
+      "position": [
+        269.0,
+        936.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_17"
+    },
+    {
+      "id": "corridor_connect_878",
+      "type": "corridor",
+      "position": [
+        500.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_692",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1320.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_916",
+      "type": "corridor",
+      "position": [
+        1260.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_1155",
+      "type": "corridor",
+      "position": [
+        580.0,
+        1500.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_22_subnode_1",
+      "type": "room",
+      "position": [
+        1574.0,
+        1064.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_22"
+    },
+    {
+      "id": "corridor_connect_540",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1140.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_566",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1180.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "c2c_door_2",
+      "type": "door",
+      "position": [
+        296.0,
+        408.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_309",
+      "type": "corridor",
+      "position": [
+        380.0,
+        840.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_60",
+      "type": "corridor",
+      "position": [
+        260.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_150",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_931",
+      "type": "corridor",
+      "position": [
+        1560.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_629",
+      "type": "corridor",
+      "position": [
+        1500.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_616",
+      "type": "corridor",
+      "position": [
+        1180.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_935",
+      "type": "corridor",
+      "position": [
+        1640.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_28",
+      "type": "room",
+      "position": [
+        548.0,
+        1263.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 13452,
+      "room_eq_radius": 65.4362635619146,
+      "room_inradius": 25.78499984741211,
+      "room_num_subnode_candidates": 0,
+      "room_centroid_xy": [
+        540.4026910496581,
+        1267.9151798988999
+      ],
+      "anchor_door": "r2c_door_27"
+    },
+    {
+      "id": "corridor_connect_979",
+      "type": "corridor",
+      "position": [
+        700.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_23",
+      "type": "door",
+      "position": [
+        298.0,
+        1058.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_735",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1360.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_873",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_203",
+      "type": "corridor",
+      "position": [
+        1300.0,
+        700.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_96",
+      "type": "corridor",
+      "position": [
+        380.0,
+        500.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_243",
+      "type": "corridor",
+      "position": [
+        380.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_476",
+      "type": "corridor",
+      "position": [
+        1500.0,
+        1040.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_625",
+      "type": "corridor",
+      "position": [
+        1360.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_255",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_393",
+      "type": "corridor",
+      "position": [
+        340.0,
+        960.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_596",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_12_subnode_1",
+      "type": "room",
+      "position": [
+        466.0,
+        730.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_12"
+    },
+    {
+      "id": "corridor_connect_260",
+      "type": "corridor",
+      "position": [
+        1620.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_619",
+      "type": "corridor",
+      "position": [
+        1240.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_12",
+      "type": "door",
+      "position": [
+        1597.0,
+        619.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_480",
+      "type": "corridor",
+      "position": [
+        320.0,
+        1060.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_258",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_647",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1280.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_694",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_24",
+      "type": "room",
+      "position": [
+        530.0,
+        1120.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 19568,
+      "room_eq_radius": 78.92203654775018,
+      "room_inradius": 37.24501037597656,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.5871320523304,
+        1148.6945012264923
+      ],
+      "anchor_door": "r2c_door_20"
+    },
+    {
+      "id": "corridor_connect_268",
+      "type": "corridor",
+      "position": [
+        1840.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_340",
+      "type": "corridor",
+      "position": [
+        360.0,
+        920.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_941",
+      "type": "corridor",
+      "position": [
+        1760.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_110",
+      "type": "corridor",
+      "position": [
+        380.0,
+        560.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_64",
+      "type": "corridor",
+      "position": [
+        380.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_363",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        920.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_241",
+      "type": "corridor",
+      "position": [
+        340.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_209",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        700.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_652",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1300.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_77",
+      "type": "corridor",
+      "position": [
+        380.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_590",
+      "type": "corridor",
+      "position": [
+        1440.0,
+        1220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_929",
+      "type": "corridor",
+      "position": [
+        1520.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_930",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_262",
+      "type": "corridor",
+      "position": [
+        1660.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_151",
+      "type": "corridor",
+      "position": [
+        1500.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_805",
+      "type": "corridor",
+      "position": [
+        1720.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_107",
+      "type": "corridor",
+      "position": [
+        420.0,
+        540.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_604",
+      "type": "corridor",
+      "position": [
+        1380.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_31",
+      "type": "room",
+      "position": [
+        793.5,
+        1299.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 16902,
+      "room_eq_radius": 73.34898565268936,
+      "room_inradius": 43.136512756347656,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        788.102413915513,
+        1317.564075257366
+      ],
+      "anchor_door": "r2c_door_30"
+    },
+    {
+      "id": "r2c_door_19",
+      "type": "door",
+      "position": [
+        1540.0,
+        941.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_394",
+      "type": "corridor",
+      "position": [
+        360.0,
+        960.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_147",
+      "type": "corridor",
+      "position": [
+        1420.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_3_subnode_11",
+      "type": "room",
+      "position": [
+        1336.0,
+        473.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_3"
+    },
+    {
+      "id": "corridor_connect_664",
+      "type": "corridor",
+      "position": [
+        1400.0,
+        1300.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_25",
+      "type": "door",
+      "position": [
+        1539.0,
+        1147.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_632",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1280.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_920",
+      "type": "corridor",
+      "position": [
+        1340.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_21_subnode_2",
+      "type": "room",
+      "position": [
+        269.0,
+        1039.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_21"
+    },
+    {
+      "id": "room_31_subnode_2",
+      "type": "room",
+      "position": [
+        788.0,
+        1370.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_31"
+    },
+    {
+      "id": "corridor_connect_14",
+      "type": "corridor",
+      "position": [
+        400.0,
+        240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_927",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_589",
+      "type": "corridor",
+      "position": [
+        1420.0,
+        1220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_289",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        780.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_883",
+      "type": "corridor",
+      "position": [
+        600.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_820",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "exit_door_1",
+      "type": "door",
+      "position": [
+        97.0,
+        409.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_598",
+      "type": "corridor",
+      "position": [
+        1100.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_626",
+      "type": "corridor",
+      "position": [
+        1440.0,
+        1260.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_42",
+      "type": "corridor",
+      "position": [
+        400.0,
+        340.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_478",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        1040.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_310",
+      "type": "corridor",
+      "position": [
+        400.0,
+        840.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_157",
+      "type": "corridor",
+      "position": [
+        380.0,
+        640.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_900",
+      "type": "corridor",
+      "position": [
+        940.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_25",
+      "type": "room",
+      "position": [
+        206.5,
+        1132.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 19524,
+      "room_eq_radius": 78.83325578619932,
+      "room_inradius": 34.380001068115234,
+      "room_num_subnode_candidates": 0,
+      "room_centroid_xy": [
+        208.84332104077032,
+        1148.3635013316944
+      ],
+      "anchor_door": "r2c_door_21"
+    },
+    {
+      "id": "corridor_connect_738",
+      "type": "corridor",
+      "position": [
+        400.0,
+        1360.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_775",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1380.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_544",
+      "type": "corridor",
+      "position": [
+        360.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_6",
+      "type": "door",
+      "position": [
+        299.0,
+        645.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_419",
+      "type": "corridor",
+      "position": [
+        380.0,
+        980.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_84",
+      "type": "corridor",
+      "position": [
+        400.0,
+        440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_11",
+      "type": "door",
+      "position": [
+        1250.0,
+        620.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_279",
+      "type": "corridor",
+      "position": [
+        1540.0,
+        760.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_33_subnode_1",
+      "type": "room",
+      "position": [
+        1039.0,
+        1267.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_33"
+    },
+    {
+      "id": "corridor_connect_267",
+      "type": "corridor",
+      "position": [
+        1820.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_600",
+      "type": "corridor",
+      "position": [
+        1140.0,
+        1240.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_905",
+      "type": "corridor",
+      "position": [
+        1040.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_23",
+      "type": "corridor",
+      "position": [
+        380.0,
+        280.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_269",
+      "type": "corridor",
+      "position": [
+        1860.0,
+        740.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_11_subnode_2",
+      "type": "room",
+      "position": [
+        269.0,
+        730.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_11"
+    },
+    {
+      "id": "corridor_connect_301",
+      "type": "corridor",
+      "position": [
+        380.0,
+        820.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_58",
+      "type": "corridor",
+      "position": [
+        220.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_201",
+      "type": "corridor",
+      "position": [
+        380.0,
+        700.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_20_subnode_1",
+      "type": "room",
+      "position": [
+        465.0,
+        1039.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_20"
+    },
+    {
+      "id": "corridor_connect_63",
+      "type": "corridor",
+      "position": [
+        360.0,
+        400.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_881",
+      "type": "corridor",
+      "position": [
+        560.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_7",
+      "type": "door",
+      "position": [
+        298.0,
+        542.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_582",
+      "type": "corridor",
+      "position": [
+        380.0,
+        1220.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_982",
+      "type": "corridor",
+      "position": [
+        760.0,
+        1460.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_389",
+      "type": "corridor",
+      "position": [
+        1480.0,
+        940.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_18",
+      "type": "room",
+      "position": [
+        531.5,
+        919.5
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "room_area_px": 17095,
+      "room_eq_radius": 73.76657443796547,
+      "room_inradius": 34.23250961303711,
+      "room_num_subnode_candidates": 2,
+      "room_centroid_xy": [
+        525.5262942380813,
+        935.8133372331091
+      ],
+      "anchor_door": "r2c_door_16"
+    },
+    {
+      "id": "corridor_connect_67",
+      "type": "corridor",
+      "position": [
+        140.0,
+        420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_114",
+      "type": "corridor",
+      "position": [
+        380.0,
+        580.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "room_29_subnode_4",
+      "type": "room",
+      "position": [
+        187.0,
+        1324.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_29"
+    },
+    {
+      "id": "room_23_subnode_8",
+      "type": "room",
+      "position": [
+        1241.0,
+        1160.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": [],
+      "is_subnode": true,
+      "parent_room_id": "room_23"
+    },
+    {
+      "id": "corridor_connect_663",
+      "type": "corridor",
+      "position": [
+        1380.0,
+        1300.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_865",
+      "type": "corridor",
+      "position": [
+        240.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_229",
+      "type": "corridor",
+      "position": [
+        1580.0,
+        720.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_48",
+      "type": "corridor",
+      "position": [
+        380.0,
+        360.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "r2c_door_17",
+      "type": "door",
+      "position": [
+        300.0,
+        955.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_936",
+      "type": "corridor",
+      "position": [
+        1660.0,
+        1440.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_main_5",
+      "type": "corridor",
+      "position": [
+        1757.0,
+        737.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    },
+    {
+      "id": "corridor_connect_839",
+      "type": "corridor",
+      "position": [
+        340.0,
+        1420.0
+      ],
+      "floor": "Ground_Floor",
+      "pixels": []
+    }
+  ],
+  "edges": [
+    {
+      "source": "room_30",
+      "target": "room_30_subnode_2",
+      "weight": 70.50177302735017,
+      "distance": 70.50177302735017
+    },
+    {
+      "source": "r2c_door_29",
+      "target": "room_30_subnode_2",
+      "weight": 39.92492955535426,
+      "distance": 39.92492955535426
+    },
+    {
+      "source": "r2c_door_29",
+      "target": "corridor_connect_886",
+      "weight": 33.54101966249684,
+      "distance": 33.54101966249684
+    },
+    {
+      "source": "corridor_connect_908",
+      "target": "corridor_connect_907",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_908",
+      "target": "corridor_connect_909",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_266",
+      "target": "corridor_main_5",
+      "weight": 43.104524124504614,
+      "distance": 43.104524124504614
+    },
+    {
+      "source": "corridor_connect_266",
+      "target": "corridor_connect_267",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_987",
+      "target": "corridor_connect_986",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_987",
+      "target": "corridor_connect_988",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_543",
+      "target": "corridor_connect_542",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_543",
+      "target": "corridor_connect_544",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_34_subnode_1",
+      "target": "room_34",
+      "weight": 71.0105625945887,
+      "distance": 71.0105625945887
+    },
+    {
+      "source": "room_34_subnode_1",
+      "target": "r2c_door_28",
+      "weight": 52.49761899362675,
+      "distance": 52.49761899362675
+    },
+    {
+      "source": "room_23",
+      "target": "room_23_subnode_5",
+      "weight": 30.504098085339287,
+      "distance": 30.504098085339287
+    },
+    {
+      "source": "corridor_connect_803",
+      "target": "corridor_connect_802",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_803",
+      "target": "corridor_connect_804",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_547",
+      "target": "r2c_door_20",
+      "weight": 14.035668847618199,
+      "distance": 14.035668847618199
+    },
+    {
+      "source": "corridor_connect_547",
+      "target": "corridor_connect_546",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_4",
+      "target": "room_4_subnode_1",
+      "weight": 67.08576600144028,
+      "distance": 67.08576600144028
+    },
+    {
+      "source": "corridor_connect_711",
+      "target": "corridor_connect_686",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_711",
+      "target": "corridor_connect_751",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_1",
+      "target": "room_1_subnode_23",
+      "weight": 26.1725046566048,
+      "distance": 26.1725046566048
+    },
+    {
+      "source": "r2c_door_1",
+      "target": "corridor_connect_6",
+      "weight": 33.61547262794322,
+      "distance": 33.61547262794322
+    },
+    {
+      "source": "corridor_connect_316",
+      "target": "corridor_connect_308",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_316",
+      "target": "corridor_connect_315",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_316",
+      "target": "corridor_connect_324",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_479",
+      "target": "r2c_door_23",
+      "weight": 2.8284271247461903,
+      "distance": 2.8284271247461903
+    },
+    {
+      "source": "corridor_connect_479",
+      "target": "corridor_connect_480",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_1224",
+      "target": "c2c_door_5",
+      "weight": 18.439088914585774,
+      "distance": 18.439088914585774
+    },
+    {
+      "source": "corridor_connect_1224",
+      "target": "corridor_connect_1155",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_554",
+      "target": "corridor_connect_540",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_554",
+      "target": "corridor_connect_566",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_12",
+      "target": "room_12_subnode_1",
+      "weight": 67.79749257900325,
+      "distance": 67.79749257900325
+    },
+    {
+      "source": "room_6",
+      "target": "room_6_subnode_16",
+      "weight": 38.06737448261963,
+      "distance": 38.06737448261963
+    },
+    {
+      "source": "corridor_connect_215",
+      "target": "corridor_connect_203",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_215",
+      "target": "corridor_connect_246",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_570",
+      "target": "corridor_connect_558",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_570",
+      "target": "corridor_connect_582",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_798",
+      "target": "corridor_connect_757",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_798",
+      "target": "corridor_connect_828",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_337",
+      "target": "corridor_connect_329",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_337",
+      "target": "corridor_connect_363",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_16",
+      "target": "room_18_subnode_1",
+      "weight": 35.84689665786984,
+      "distance": 35.84689665786984
+    },
+    {
+      "source": "r2c_door_16",
+      "target": "corridor_connect_396",
+      "weight": 35.510561809129406,
+      "distance": 35.510561809129406
+    },
+    {
+      "source": "corridor_connect_800",
+      "target": "corridor_connect_801",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_3_subnode_7",
+      "target": "room_3",
+      "weight": 67.23094525588644,
+      "distance": 67.23094525588644
+    },
+    {
+      "source": "room_3_subnode_7",
+      "target": "room_3_subnode_11",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "room_26_subnode_1",
+      "target": "room_26",
+      "weight": 61.06144446375307,
+      "distance": 61.06144446375307
+    },
+    {
+      "source": "room_26_subnode_1",
+      "target": "r2c_door_25",
+      "weight": 40.8166632639171,
+      "distance": 40.8166632639171
+    },
+    {
+      "source": "corridor_connect_918",
+      "target": "corridor_connect_917",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_918",
+      "target": "corridor_connect_919",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_481",
+      "target": "corridor_connect_480",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_481",
+      "target": "corridor_connect_482",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_285",
+      "target": "corridor_connect_273",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_285",
+      "target": "corridor_connect_293",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_4",
+      "target": "room_10_subnode_1",
+      "weight": 36.359317925395686,
+      "distance": 36.359317925395686
+    },
+    {
+      "source": "r2c_door_4",
+      "target": "corridor_connect_158",
+      "weight": 34.52535300326414,
+      "distance": 34.52535300326414
+    },
+    {
+      "source": "r2c_door_10",
+      "target": "room_3_subnode_15",
+      "weight": 43.104524124504614,
+      "distance": 43.104524124504614
+    },
+    {
+      "source": "r2c_door_10",
+      "target": "corridor_connect_116",
+      "weight": 16.278820596099706,
+      "distance": 16.278820596099706
+    },
+    {
+      "source": "corridor_connect_599",
+      "target": "corridor_connect_598",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_599",
+      "target": "corridor_connect_600",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_188",
+      "target": "corridor_connect_175",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_188",
+      "target": "corridor_connect_201",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_16_subnode_7",
+      "target": "room_16_subnode_4",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "room_16_subnode_7",
+      "target": "room_16_subnode_10",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "corridor_connect_757",
+      "target": "corridor_connect_717",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_984",
+      "target": "corridor_connect_983",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_984",
+      "target": "corridor_connect_985",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_698",
+      "target": "r2c_door_28",
+      "weight": 13.601470508735444,
+      "distance": 13.601470508735444
+    },
+    {
+      "source": "corridor_connect_698",
+      "target": "corridor_connect_697",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_618",
+      "target": "corridor_connect_617",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_618",
+      "target": "corridor_connect_619",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_558",
+      "target": "corridor_connect_545",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_617",
+      "target": "corridor_connect_616",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_1_subnode_21",
+      "target": "room_1_subnode_20",
+      "weight": 60.0,
+      "distance": 60.0
+    },
+    {
+      "source": "room_1_subnode_21",
+      "target": "room_1_subnode_23",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "corridor_connect_686",
+      "target": "corridor_connect_687",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_100",
+      "target": "corridor_connect_96",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_100",
+      "target": "corridor_connect_105",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_433",
+      "target": "corridor_connect_415",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_433",
+      "target": "corridor_connect_449",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_899",
+      "target": "corridor_connect_898",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_899",
+      "target": "corridor_connect_900",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_73",
+      "target": "c2c_door_2",
+      "weight": 37.94733192202055,
+      "distance": 37.94733192202055
+    },
+    {
+      "source": "corridor_connect_73",
+      "target": "corridor_connect_60",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_870",
+      "target": "corridor_connect_839",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_870",
+      "target": "corridor_connect_869",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_877",
+      "target": "corridor_connect_876",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_877",
+      "target": "corridor_connect_878",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_828",
+      "target": "corridor_connect_849",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_264",
+      "target": "corridor_connect_263",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_264",
+      "target": "corridor_connect_265",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_14_subnode_2",
+      "target": "room_14",
+      "weight": 65.62202374203343,
+      "distance": 65.62202374203343
+    },
+    {
+      "source": "room_14_subnode_2",
+      "target": "r2c_door_13",
+      "weight": 36.359317925395686,
+      "distance": 36.359317925395686
+    },
+    {
+      "source": "corridor_connect_672",
+      "target": "corridor_connect_651",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_672",
+      "target": "corridor_connect_696",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_16_subnode_10",
+      "target": "room_16_subnode_17",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "corridor_connect_980",
+      "target": "corridor_connect_979",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_980",
+      "target": "corridor_connect_981",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_32",
+      "target": "room_33_subnode_1",
+      "weight": 56.36488268416781,
+      "distance": 56.36488268416781
+    },
+    {
+      "source": "r2c_door_32",
+      "target": "corridor_connect_598",
+      "weight": 10.44030650891055,
+      "distance": 10.44030650891055
+    },
+    {
+      "source": "corridor_connect_868",
+      "target": "corridor_connect_867",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_868",
+      "target": "corridor_connect_869",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_16_subnode_17",
+      "target": "room_16",
+      "weight": 60.878978309429606,
+      "distance": 60.878978309429606
+    },
+    {
+      "source": "corridor_connect_453",
+      "target": "corridor_connect_437",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_453",
+      "target": "corridor_connect_467",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_16_subnode_4",
+      "target": "r2c_door_9",
+      "weight": 41.012193308819754,
+      "distance": 41.012193308819754
+    },
+    {
+      "source": "corridor_connect_942",
+      "target": "corridor_connect_851",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_942",
+      "target": "corridor_connect_941",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_19",
+      "target": "room_19_subnode_1",
+      "weight": 56.67892024377317,
+      "distance": 56.67892024377317
+    },
+    {
+      "source": "corridor_connect_717",
+      "target": "corridor_connect_692",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_611",
+      "target": "corridor_connect_596",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_611",
+      "target": "corridor_connect_632",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_851",
+      "target": "corridor_connect_830",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_807",
+      "target": "corridor_connect_806",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_807",
+      "target": "corridor_connect_808",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_1321",
+      "target": "c2c_door_5",
+      "weight": 27.202941017470888,
+      "distance": 27.202941017470888
+    },
+    {
+      "source": "corridor_connect_152",
+      "target": "corridor_connect_151",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_152",
+      "target": "corridor_connect_153",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_15",
+      "target": "room_15_subnode_1",
+      "weight": 70.8801805866774,
+      "distance": 70.8801805866774
+    },
+    {
+      "source": "corridor_connect_315",
+      "target": "r2c_door_13",
+      "weight": 40.792156108742276,
+      "distance": 40.792156108742276
+    },
+    {
+      "source": "corridor_connect_228",
+      "target": "corridor_connect_227",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_228",
+      "target": "corridor_connect_229",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_624",
+      "target": "corridor_connect_623",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_624",
+      "target": "corridor_connect_625",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_13",
+      "target": "room_13_subnode_2",
+      "weight": 43.55743334954437,
+      "distance": 43.55743334954437
+    },
+    {
+      "source": "corridor_connect_913",
+      "target": "corridor_connect_912",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_913",
+      "target": "corridor_connect_914",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_177",
+      "target": "corridor_connect_159",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_177",
+      "target": "corridor_connect_190",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_92",
+      "target": "corridor_connect_88",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_92",
+      "target": "corridor_connect_96",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_190",
+      "target": "corridor_connect_203",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_27",
+      "target": "room_28",
+      "weight": 120.78493283518438,
+      "distance": 120.78493283518438
+    },
+    {
+      "source": "r2c_door_27",
+      "target": "corridor_connect_652",
+      "weight": 31.78049716414141,
+      "distance": 31.78049716414141
+    },
+    {
+      "source": "corridor_connect_142",
+      "target": "corridor_connect_141",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_142",
+      "target": "corridor_connect_143",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_15_subnode_1",
+      "target": "r2c_door_15",
+      "weight": 35.35533905932738,
+      "distance": 35.35533905932738
+    },
+    {
+      "source": "room_2",
+      "target": "room_2_subnode_1",
+      "weight": 40.22747817102136,
+      "distance": 40.22747817102136
+    },
+    {
+      "source": "corridor_connect_591",
+      "target": "corridor_connect_590",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_591",
+      "target": "corridor_connect_592",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_6_subnode_20",
+      "target": "room_6_subnode_16",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "room_6_subnode_20",
+      "target": "room_6_subnode_24",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "corridor_connect_313",
+      "target": "corridor_connect_305",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_313",
+      "target": "corridor_connect_321",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_7",
+      "target": "room_7_subnode_2",
+      "weight": 63.186232677696495,
+      "distance": 63.186232677696495
+    },
+    {
+      "source": "c2c_door_4",
+      "target": "corridor_connect_229",
+      "weight": 19.1049731745428,
+      "distance": 19.1049731745428
+    },
+    {
+      "source": "c2c_door_4",
+      "target": "corridor_connect_260",
+      "weight": 26.92582403567252,
+      "distance": 26.92582403567252
+    },
+    {
+      "source": "corridor_connect_213",
+      "target": "corridor_connect_201",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_213",
+      "target": "corridor_connect_243",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_305",
+      "target": "corridor_connect_297",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_751",
+      "target": "corridor_connect_792",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_119",
+      "target": "corridor_connect_114",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_119",
+      "target": "corridor_connect_138",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_3_subnode_15",
+      "target": "room_3_subnode_11",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "r2c_door_22",
+      "target": "room_20_subnode_1",
+      "weight": 35.84689665786984,
+      "distance": 35.84689665786984
+    },
+    {
+      "source": "r2c_door_22",
+      "target": "corridor_connect_485",
+      "weight": 14.317821063276353,
+      "distance": 14.317821063276353
+    },
+    {
+      "source": "corridor_connect_154",
+      "target": "r2c_door_12",
+      "weight": 37.013511046643494,
+      "distance": 37.013511046643494
+    },
+    {
+      "source": "corridor_connect_154",
+      "target": "corridor_connect_153",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_482",
+      "target": "corridor_connect_483",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_140",
+      "target": "r2c_door_11",
+      "weight": 30.0,
+      "distance": 30.0
+    },
+    {
+      "source": "corridor_connect_140",
+      "target": "corridor_connect_141",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_9",
+      "target": "corridor_main_4",
+      "weight": 38.0,
+      "distance": 38.0
+    },
+    {
+      "source": "r2c_door_5",
+      "target": "room_8_subnode_1",
+      "weight": 36.71511950137164,
+      "distance": 36.71511950137164
+    },
+    {
+      "source": "r2c_door_5",
+      "target": "corridor_connect_107",
+      "weight": 14.035668847618199,
+      "distance": 14.035668847618199
+    },
+    {
+      "source": "r2c_door_3",
+      "target": "room_2_subnode_1",
+      "weight": 64.8459713474939,
+      "distance": 64.8459713474939
+    },
+    {
+      "source": "r2c_door_3",
+      "target": "corridor_connect_43",
+      "weight": 15.811388300841896,
+      "distance": 15.811388300841896
+    },
+    {
+      "source": "corridor_connect_277",
+      "target": "corridor_connect_255",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_277",
+      "target": "corridor_connect_289",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_20",
+      "target": "room_20_subnode_1",
+      "weight": 69.63476143421474,
+      "distance": 69.63476143421474
+    },
+    {
+      "source": "room_5_subnode_20",
+      "target": "room_5_subnode_15",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "room_5_subnode_20",
+      "target": "room_5_subnode_24",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "corridor_connect_897",
+      "target": "r2c_door_31",
+      "weight": 33.95585369269929,
+      "distance": 33.95585369269929
+    },
+    {
+      "source": "corridor_connect_897",
+      "target": "corridor_connect_988",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_897",
+      "target": "corridor_connect_898",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_138",
+      "target": "corridor_connect_157",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_30",
+      "target": "room_31_subnode_2",
+      "weight": 42.485291572496,
+      "distance": 42.485291572496
+    },
+    {
+      "source": "r2c_door_30",
+      "target": "corridor_connect_891",
+      "weight": 33.24154027718932,
+      "distance": 33.24154027718932
+    },
+    {
+      "source": "corridor_connect_449",
+      "target": "corridor_connect_463",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_484",
+      "target": "corridor_connect_483",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_484",
+      "target": "corridor_connect_485",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_10",
+      "target": "c2c_door_1",
+      "weight": 32.01562118716424,
+      "distance": 32.01562118716424
+    },
+    {
+      "source": "corridor_connect_10",
+      "target": "corridor_connect_14",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_938",
+      "target": "corridor_connect_937",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_938",
+      "target": "corridor_connect_939",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_85",
+      "target": "r2c_door_2",
+      "weight": 15.033296378372908,
+      "distance": 15.033296378372908
+    },
+    {
+      "source": "corridor_connect_85",
+      "target": "corridor_connect_84",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_143",
+      "target": "corridor_connect_144",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_621",
+      "target": "room_23_subnode_11",
+      "weight": 48.83646178829912,
+      "distance": 48.83646178829912
+    },
+    {
+      "source": "corridor_connect_621",
+      "target": "corridor_connect_620",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_621",
+      "target": "corridor_connect_622",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_24_subnode_1",
+      "target": "room_24",
+      "weight": 44.68780594300866,
+      "distance": 44.68780594300866
+    },
+    {
+      "source": "room_24_subnode_1",
+      "target": "r2c_door_20",
+      "weight": 63.150613615387776,
+      "distance": 63.150613615387776
+    },
+    {
+      "source": "corridor_connect_155",
+      "target": "r2c_door_6",
+      "weight": 41.30375285612676,
+      "distance": 41.30375285612676
+    },
+    {
+      "source": "corridor_connect_155",
+      "target": "corridor_connect_156",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_911",
+      "target": "corridor_connect_910",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_911",
+      "target": "corridor_connect_912",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_8_subnode_1",
+      "target": "room_8",
+      "weight": 70.23175919767353,
+      "distance": 70.23175919767353
+    },
+    {
+      "source": "corridor_connect_437",
+      "target": "corridor_connect_419",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_175",
+      "target": "corridor_connect_157",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_102",
+      "target": "r2c_door_7",
+      "weight": 22.090722034374522,
+      "distance": 22.090722034374522
+    },
+    {
+      "source": "corridor_connect_102",
+      "target": "corridor_connect_103",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_224",
+      "target": "corridor_connect_255",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_224",
+      "target": "corridor_connect_225",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_7_subnode_2",
+      "target": "r2c_door_7",
+      "weight": 37.20215047547655,
+      "distance": 37.20215047547655
+    },
+    {
+      "source": "corridor_connect_273",
+      "target": "corridor_connect_243",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_644",
+      "target": "corridor_connect_665",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_644",
+      "target": "corridor_connect_645",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_937",
+      "target": "corridor_connect_936",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_546",
+      "target": "corridor_connect_545",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_467",
+      "target": "corridor_connect_483",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_56",
+      "target": "exit_door_1",
+      "weight": 24.698178070456937,
+      "distance": 24.698178070456937
+    },
+    {
+      "source": "corridor_connect_56",
+      "target": "corridor_connect_66",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_33",
+      "target": "room_27_subnode_1",
+      "weight": 39.11521443121589,
+      "distance": 39.11521443121589
+    },
+    {
+      "source": "r2c_door_33",
+      "target": "corridor_connect_629",
+      "weight": 42.20189569201838,
+      "distance": 42.20189569201838
+    },
+    {
+      "source": "corridor_connect_528",
+      "target": "corridor_connect_516",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_528",
+      "target": "corridor_connect_540",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_903",
+      "target": "corridor_connect_902",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_903",
+      "target": "corridor_connect_904",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_866",
+      "target": "corridor_connect_865",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_866",
+      "target": "corridor_connect_867",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_909",
+      "target": "corridor_connect_910",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_508",
+      "target": "corridor_connect_496",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_508",
+      "target": "corridor_connect_520",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_983",
+      "target": "corridor_connect_982",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_843",
+      "target": "corridor_connect_822",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_843",
+      "target": "corridor_connect_921",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_15",
+      "target": "corridor_connect_310",
+      "weight": 35.4400902933387,
+      "distance": 35.4400902933387
+    },
+    {
+      "source": "corridor_connect_891",
+      "target": "corridor_connect_982",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_392",
+      "target": "r2c_door_17",
+      "weight": 20.615528128088304,
+      "distance": 20.615528128088304
+    },
+    {
+      "source": "corridor_connect_392",
+      "target": "corridor_connect_393",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_244",
+      "target": "r2c_door_8",
+      "weight": 34.92849839314596,
+      "distance": 34.92849839314596
+    },
+    {
+      "source": "corridor_connect_244",
+      "target": "corridor_connect_243",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_876",
+      "target": "corridor_connect_875",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_884",
+      "target": "corridor_connect_883",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_884",
+      "target": "corridor_connect_885",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_601",
+      "target": "corridor_connect_600",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_601",
+      "target": "corridor_connect_602",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_144",
+      "target": "corridor_connect_124",
+      "weight": 28.284271247461902,
+      "distance": 28.284271247461902
+    },
+    {
+      "source": "corridor_connect_144",
+      "target": "corridor_connect_145",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_153",
+      "target": "corridor_connect_171",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_88",
+      "target": "corridor_connect_83",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_32_subnode_2",
+      "target": "room_32",
+      "weight": 70.51595564125896,
+      "distance": 70.51595564125896
+    },
+    {
+      "source": "room_32_subnode_2",
+      "target": "r2c_door_31",
+      "weight": 42.05948168962618,
+      "distance": 42.05948168962618
+    },
+    {
+      "source": "corridor_connect_390",
+      "target": "corridor_connect_389",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_390",
+      "target": "corridor_connect_391",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_321",
+      "target": "corridor_connect_329",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_5_subnode_29",
+      "target": "room_5_subnode_24",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "room_5_subnode_29",
+      "target": "r2c_door_11",
+      "weight": 31.32091952673165,
+      "distance": 31.32091952673165
+    },
+    {
+      "source": "corridor_connect_68",
+      "target": "corridor_connect_67",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_68",
+      "target": "corridor_connect_69",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_391",
+      "target": "r2c_door_19",
+      "weight": 20.024984394500787,
+      "distance": 20.024984394500787
+    },
+    {
+      "source": "r2c_door_21",
+      "target": "room_25",
+      "weight": 97.89407540806543,
+      "distance": 97.89407540806543
+    },
+    {
+      "source": "r2c_door_21",
+      "target": "corridor_connect_542",
+      "weight": 20.024984394500787,
+      "distance": 20.024984394500787
+    },
+    {
+      "source": "corridor_connect_985",
+      "target": "corridor_connect_986",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_261",
+      "target": "corridor_connect_260",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_261",
+      "target": "corridor_connect_262",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_978",
+      "target": "corridor_connect_977",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_978",
+      "target": "corridor_connect_979",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_6_subnode_28",
+      "target": "room_6_subnode_24",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "room_6_subnode_28",
+      "target": "r2c_door_12",
+      "weight": 26.92582403567252,
+      "distance": 26.92582403567252
+    },
+    {
+      "source": "corridor_connect_19",
+      "target": "corridor_connect_13",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_19",
+      "target": "corridor_connect_23",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_934",
+      "target": "corridor_connect_933",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_934",
+      "target": "corridor_connect_935",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_70",
+      "target": "corridor_connect_69",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_70",
+      "target": "corridor_connect_71",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_71",
+      "target": "corridor_connect_58",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_541",
+      "target": "r2c_door_25",
+      "weight": 39.6232255123179,
+      "distance": 39.6232255123179
+    },
+    {
+      "source": "corridor_connect_541",
+      "target": "corridor_connect_540",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_297",
+      "target": "corridor_connect_289",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_33",
+      "target": "room_33_subnode_1",
+      "weight": 32.515380975778214,
+      "distance": 32.515380975778214
+    },
+    {
+      "source": "corridor_connect_914",
+      "target": "corridor_connect_915",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_697",
+      "target": "corridor_connect_696",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_697",
+      "target": "corridor_connect_738",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "c2c_door_3",
+      "target": "corridor_connect_245",
+      "weight": 24.041630560342615,
+      "distance": 24.041630560342615
+    },
+    {
+      "source": "c2c_door_3",
+      "target": "corridor_connect_203",
+      "weight": 54.20332093147061,
+      "distance": 54.20332093147061
+    },
+    {
+      "source": "corridor_connect_665",
+      "target": "corridor_connect_664",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_902",
+      "target": "corridor_connect_901",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_921",
+      "target": "corridor_connect_920",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_842",
+      "target": "corridor_connect_820",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_842",
+      "target": "corridor_connect_873",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_265",
+      "target": "corridor_main_5",
+      "weight": 37.12142238654117,
+      "distance": 37.12142238654117
+    },
+    {
+      "source": "corridor_connect_882",
+      "target": "corridor_connect_881",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_882",
+      "target": "corridor_connect_973",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_882",
+      "target": "corridor_connect_883",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_8",
+      "target": "room_12_subnode_1",
+      "weight": 36.71511950137164,
+      "distance": 36.71511950137164
+    },
+    {
+      "source": "corridor_connect_802",
+      "target": "corridor_connect_801",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_651",
+      "target": "corridor_connect_632",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_651",
+      "target": "corridor_connect_652",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_43",
+      "target": "corridor_connect_42",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_804",
+      "target": "corridor_connect_805",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_395",
+      "target": "corridor_connect_394",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_395",
+      "target": "corridor_connect_419",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_395",
+      "target": "corridor_connect_396",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_516",
+      "target": "corridor_connect_504",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_308",
+      "target": "corridor_connect_309",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_104",
+      "target": "corridor_connect_103",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_104",
+      "target": "corridor_connect_105",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_6",
+      "target": "corridor_connect_5",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_83",
+      "target": "corridor_connect_77",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_83",
+      "target": "corridor_connect_84",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_483",
+      "target": "corridor_connect_496",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_225",
+      "target": "corridor_connect_226",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_66",
+      "target": "corridor_connect_67",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_29",
+      "target": "room_29_subnode_4",
+      "weight": 30.401480227120523,
+      "distance": 30.401480227120523
+    },
+    {
+      "source": "corridor_connect_778",
+      "target": "corridor_connect_738",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_778",
+      "target": "corridor_connect_820",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_981",
+      "target": "corridor_connect_982",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_849",
+      "target": "corridor_connect_927",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_34",
+      "target": "corridor_connect_27",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_34",
+      "target": "corridor_connect_41",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_504",
+      "target": "corridor_connect_492",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_885",
+      "target": "corridor_connect_886",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_1_subnode_19",
+      "target": "room_1",
+      "weight": 60.749485594529936,
+      "distance": 60.749485594529936
+    },
+    {
+      "source": "room_1_subnode_19",
+      "target": "room_1_subnode_20",
+      "weight": 60.0,
+      "distance": 60.0
+    },
+    {
+      "source": "corridor_connect_124",
+      "target": "corridor_connect_116",
+      "weight": 28.284271247461902,
+      "distance": 28.284271247461902
+    },
+    {
+      "source": "corridor_connect_477",
+      "target": "corridor_connect_476",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_477",
+      "target": "corridor_connect_478",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_901",
+      "target": "corridor_connect_900",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_592",
+      "target": "corridor_connect_578",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_592",
+      "target": "corridor_connect_607",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_9",
+      "target": "room_9_subnode_2",
+      "weight": 64.39332263519255,
+      "distance": 64.39332263519255
+    },
+    {
+      "source": "room_19_subnode_1",
+      "target": "r2c_door_19",
+      "weight": 39.44616584663204,
+      "distance": 39.44616584663204
+    },
+    {
+      "source": "room_27_subnode_1",
+      "target": "room_27",
+      "weight": 62.93647591023825,
+      "distance": 62.93647591023825
+    },
+    {
+      "source": "corridor_connect_141",
+      "target": "corridor_connect_159",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_806",
+      "target": "corridor_connect_805",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_817",
+      "target": "corridor_connect_775",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_817",
+      "target": "corridor_connect_839",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_808",
+      "target": "corridor_connect_830",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "exit_door_2",
+      "target": "corridor_connect_270",
+      "weight": 33.06055050963308,
+      "distance": 33.06055050963308
+    },
+    {
+      "source": "corridor_connect_61",
+      "target": "c2c_door_2",
+      "weight": 25.298221281347036,
+      "distance": 25.298221281347036
+    },
+    {
+      "source": "corridor_connect_61",
+      "target": "corridor_connect_62",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_463",
+      "target": "corridor_connect_475",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_933",
+      "target": "corridor_connect_932",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_886",
+      "target": "corridor_connect_977",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_245",
+      "target": "corridor_connect_246",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_29_subnode_7",
+      "target": "room_29_subnode_4",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "room_29_subnode_7",
+      "target": "r2c_door_26",
+      "weight": 45.45327270945405,
+      "distance": 45.45327270945405
+    },
+    {
+      "source": "corridor_connect_105",
+      "target": "corridor_connect_110",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_105",
+      "target": "corridor_connect_106",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_939",
+      "target": "corridor_connect_940",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_956",
+      "target": "corridor_connect_865",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_13",
+      "target": "corridor_connect_14",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_415",
+      "target": "corridor_connect_389",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_5",
+      "target": "c2c_door_1",
+      "weight": 33.83784863137726,
+      "distance": 33.83784863137726
+    },
+    {
+      "source": "corridor_connect_532",
+      "target": "corridor_connect_520",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_532",
+      "target": "corridor_connect_545",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_973",
+      "target": "corridor_connect_1064",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_23_subnode_11",
+      "target": "room_23_subnode_8",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "corridor_connect_1064",
+      "target": "corridor_connect_1155",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_366",
+      "target": "corridor_connect_340",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_366",
+      "target": "corridor_connect_394",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_148",
+      "target": "corridor_connect_147",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_148",
+      "target": "corridor_connect_149",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_578",
+      "target": "corridor_connect_566",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_106",
+      "target": "corridor_connect_107",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_5_subnode_15",
+      "target": "room_5",
+      "weight": 52.100863716449076,
+      "distance": 52.100863716449076
+    },
+    {
+      "source": "corridor_connect_226",
+      "target": "corridor_connect_227",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_263",
+      "target": "corridor_connect_262",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_607",
+      "target": "corridor_connect_628",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_13_subnode_2",
+      "target": "r2c_door_18",
+      "weight": 72.42237223399962,
+      "distance": 72.42237223399962
+    },
+    {
+      "source": "corridor_connect_41",
+      "target": "corridor_connect_48",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_41",
+      "target": "corridor_connect_42",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_26",
+      "target": "corridor_connect_865",
+      "weight": 29.614185789921695,
+      "distance": 29.614185789921695
+    },
+    {
+      "source": "r2c_door_2",
+      "target": "room_4_subnode_1",
+      "weight": 36.359317925395686,
+      "distance": 36.359317925395686
+    },
+    {
+      "source": "room_10",
+      "target": "room_10_subnode_1",
+      "weight": 69.63476143421474,
+      "distance": 69.63476143421474
+    },
+    {
+      "source": "corridor_connect_603",
+      "target": "corridor_connect_625",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_603",
+      "target": "corridor_connect_604",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_628",
+      "target": "corridor_connect_627",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_628",
+      "target": "corridor_connect_647",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_628",
+      "target": "corridor_connect_629",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_21",
+      "target": "room_21_subnode_2",
+      "weight": 64.2748006609122,
+      "distance": 64.2748006609122
+    },
+    {
+      "source": "corridor_connect_602",
+      "target": "corridor_connect_616",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_156",
+      "target": "corridor_connect_157",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_696",
+      "target": "corridor_connect_695",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_915",
+      "target": "corridor_connect_916",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_875",
+      "target": "corridor_connect_874",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_23_subnode_5",
+      "target": "room_23_subnode_8",
+      "weight": 60.03332407921454,
+      "distance": 60.03332407921454
+    },
+    {
+      "source": "corridor_connect_880",
+      "target": "corridor_connect_879",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_880",
+      "target": "corridor_connect_881",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_main_4",
+      "target": "corridor_connect_246",
+      "weight": 80.15609770940699,
+      "distance": 80.15609770940699
+    },
+    {
+      "source": "room_18_subnode_1",
+      "target": "room_18",
+      "weight": 67.54628043053148,
+      "distance": 67.54628043053148
+    },
+    {
+      "source": "corridor_connect_492",
+      "target": "corridor_connect_475",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_919",
+      "target": "corridor_connect_920",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_874",
+      "target": "corridor_connect_873",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_622",
+      "target": "corridor_connect_623",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_904",
+      "target": "corridor_connect_905",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_14",
+      "target": "room_11_subnode_2",
+      "weight": 34.9857113690718,
+      "distance": 34.9857113690718
+    },
+    {
+      "source": "r2c_door_14",
+      "target": "corridor_connect_241",
+      "weight": 41.773197148410844,
+      "distance": 41.773197148410844
+    },
+    {
+      "source": "corridor_connect_145",
+      "target": "corridor_connect_146",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_545",
+      "target": "corridor_connect_544",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_620",
+      "target": "corridor_connect_619",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_695",
+      "target": "corridor_connect_694",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_59",
+      "target": "corridor_connect_58",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_59",
+      "target": "corridor_connect_60",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_184",
+      "target": "corridor_connect_171",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_184",
+      "target": "corridor_connect_197",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_197",
+      "target": "corridor_connect_209",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_17",
+      "target": "room_17_subnode_2",
+      "weight": 64.64131805586888,
+      "distance": 64.64131805586888
+    },
+    {
+      "source": "corridor_connect_907",
+      "target": "corridor_connect_906",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_293",
+      "target": "corridor_connect_301",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_149",
+      "target": "corridor_connect_150",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_940",
+      "target": "corridor_connect_941",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_587",
+      "target": "corridor_connect_604",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_587",
+      "target": "corridor_connect_588",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_270",
+      "target": "corridor_connect_269",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_588",
+      "target": "corridor_connect_589",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_928",
+      "target": "corridor_connect_927",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_928",
+      "target": "corridor_connect_929",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_242",
+      "target": "corridor_connect_241",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_242",
+      "target": "corridor_connect_243",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_324",
+      "target": "corridor_connect_332",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_158",
+      "target": "corridor_connect_157",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_22",
+      "target": "room_22_subnode_1",
+      "weight": 58.69412236331676,
+      "distance": 58.69412236331676
+    },
+    {
+      "source": "corridor_connect_645",
+      "target": "corridor_connect_626",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_11",
+      "target": "room_11_subnode_2",
+      "weight": 64.90377492873584,
+      "distance": 64.90377492873584
+    },
+    {
+      "source": "r2c_door_18",
+      "target": "corridor_connect_279",
+      "weight": 22.561028345356956,
+      "distance": 22.561028345356956
+    },
+    {
+      "source": "room_9_subnode_2",
+      "target": "r2c_door_6",
+      "weight": 35.510561809129406,
+      "distance": 35.510561809129406
+    },
+    {
+      "source": "r2c_door_24",
+      "target": "room_22_subnode_1",
+      "weight": 39.96248240537617,
+      "distance": 39.96248240537617
+    },
+    {
+      "source": "r2c_door_24",
+      "target": "corridor_connect_478",
+      "weight": 3.0,
+      "distance": 3.0
+    },
+    {
+      "source": "corridor_connect_27",
+      "target": "corridor_connect_23",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_687",
+      "target": "corridor_connect_663",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_54",
+      "target": "corridor_connect_48",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_54",
+      "target": "corridor_connect_64",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_879",
+      "target": "corridor_connect_878",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_62",
+      "target": "corridor_connect_63",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_792",
+      "target": "corridor_connect_822",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_146",
+      "target": "corridor_connect_147",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_627",
+      "target": "corridor_connect_626",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_932",
+      "target": "corridor_connect_931",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_475",
+      "target": "corridor_connect_476",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_668",
+      "target": "corridor_connect_647",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_668",
+      "target": "corridor_connect_692",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_917",
+      "target": "corridor_connect_916",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_906",
+      "target": "corridor_connect_905",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_227",
+      "target": "corridor_connect_209",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_227",
+      "target": "corridor_connect_258",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_332",
+      "target": "corridor_connect_340",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_17_subnode_2",
+      "target": "r2c_door_17",
+      "weight": 36.359317925395686,
+      "distance": 36.359317925395686
+    },
+    {
+      "source": "corridor_connect_309",
+      "target": "corridor_connect_301",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_309",
+      "target": "corridor_connect_310",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_150",
+      "target": "corridor_connect_151",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_931",
+      "target": "corridor_connect_930",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_935",
+      "target": "corridor_connect_936",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "r2c_door_23",
+      "target": "room_21_subnode_2",
+      "weight": 34.66987164671943,
+      "distance": 34.66987164671943
+    },
+    {
+      "source": "corridor_connect_735",
+      "target": "corridor_connect_694",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_735",
+      "target": "corridor_connect_775",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_393",
+      "target": "corridor_connect_394",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_596",
+      "target": "corridor_connect_582",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_258",
+      "target": "corridor_connect_279",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_268",
+      "target": "corridor_connect_267",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_268",
+      "target": "corridor_connect_269",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_110",
+      "target": "corridor_connect_114",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_64",
+      "target": "corridor_connect_63",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_64",
+      "target": "corridor_connect_77",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_363",
+      "target": "corridor_connect_389",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_590",
+      "target": "corridor_connect_589",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "corridor_connect_929",
+      "target": "corridor_connect_930",
+      "weight": 20.0,
+      "distance": 20.0
+    },
+    {
+      "source": "room_31",
+      "target": "room_31_subnode_2",
+      "weight": 70.71421356417676,
+      "distance": 70.71421356417676
+    },
+    {
+      "source": "corridor_connect_664",
+      "target": "corridor_connect_663",
+      "weight": 20.0,
+      "distance": 20.0
+    }
+  ],
+  "meta": {
+    "stage": "manhatten_1_bare_subgraph",
+    "source": "/data1/yansari/cad2map/Graph_GW/Inputs/Jsons/cs_cor.json",
+    "plan_image": "/data1/yansari/cad2map/Graph_GW/Inputs/Plans/cs_cor.png",
+    "tolerance_deg": 5.0,
+    "strict_orth": true
+  }
+}
